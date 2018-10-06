@@ -2076,7 +2076,7 @@ For the case of outgoing payments, you can get a &apos;Spend Proof&apos; that pr
     <message>
         <location filename="../wizard/WizardConfigure.qml" line="97"/>
         <source>Kickstart the Monero blockchain?</source>
-        <translation>התנעת הבלוקצ&apos;יין של מונרו?</translation>
+        <translation>להתחיל את הבלוקציין של מונרו?</translation>
     </message>
     <message>
         <location filename="../wizard/WizardConfigure.qml" line="113"/>
@@ -2125,7 +2125,7 @@ For the case of outgoing payments, you can get a &apos;Spend Proof&apos; that pr
     <message>
         <location filename="../wizard/WizardCreateWalletFromDevice.qml" line="112"/>
         <source>Create a new wallet from hardware device</source>
-        <translation type="unfinished"></translation>
+        <translation>צור ארנק חדש מהתקן חומרה</translation>
     </message>
 </context>
 <context>
@@ -2143,7 +2143,7 @@ For the case of outgoing payments, you can get a &apos;Spend Proof&apos; that pr
     <message>
         <location filename="../wizard/WizardDaemonSettings.qml" line="148"/>
         <source>Blockchain location</source>
-        <translation>מיקום בלוקצ&apos;יין</translation>
+        <translation>מיקום בלוקציין</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDaemonSettings.qml" line="159"/>
@@ -2206,17 +2206,17 @@ For the case of outgoing payments, you can get a &apos;Spend Proof&apos; that pr
         <location filename="../wizard/WizardFinish.qml" line="50"/>
         <location filename="../wizard/WizardFinish.qml" line="53"/>
         <source>Disabled</source>
-        <translation>מבוטל</translation>
+        <translation>לא פעיל</translation>
     </message>
     <message>
         <location filename="../wizard/WizardFinish.qml" line="55"/>
         <source>Stagenet</source>
-        <translation>Stagenet</translation>
+        <translation>סטייגנט</translation>
     </message>
     <message>
         <location filename="../wizard/WizardFinish.qml" line="55"/>
         <source>Mainnet</source>
-        <translation>Mainnet</translation>
+        <translation>מייננט</translation>
     </message>
     <message>
         <location filename="../wizard/WizardFinish.qml" line="65"/>
@@ -2246,7 +2246,7 @@ For the case of outgoing payments, you can get a &apos;Spend Proof&apos; that pr
     <message>
         <location filename="../wizard/WizardFinish.qml" line="55"/>
         <source>Testnet</source>
-        <translation>Testnet</translation>
+        <translation>טסטנט</translation>
     </message>
     <message>
         <location filename="../wizard/WizardFinish.qml" line="77"/>
@@ -2284,7 +2284,7 @@ For the case of outgoing payments, you can get a &apos;Spend Proof&apos; that pr
     <message>
         <location filename="../wizard/WizardMain.qml" line="386"/>
         <source>USE MONERO</source>
-        <translation>התחל עם מונרו!</translation>
+        <translation>השתמש במונרו</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="399"/>
@@ -2300,7 +2300,7 @@ For the case of outgoing payments, you can get a &apos;Spend Proof&apos; that pr
         <location filename="../wizard/WizardMain.qml" line="406"/>
         <source>The view only wallet has been created. You can open it by closing this current wallet, clicking the &quot;Open wallet from file&quot; option, and selecting the view wallet in: 
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>1% :ובחירה בצפייה בארנק ב &quot;פתח ארנק מקובץ&quot; ארנק לצפייה בלבד נוצר. ניתן לפתוח אותו על ידי סגירת הארנק הנוכחי, לחיצה על </translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="414"/>
@@ -2363,12 +2363,12 @@ For the case of outgoing payments, you can get a &apos;Spend Proof&apos; that pr
     <message>
         <location filename="../wizard/WizardManageWalletUI.qml" line="340"/>
         <source>Device name</source>
-        <translation type="unfinished"></translation>
+        <translation>שם המכשיר</translation>
     </message>
     <message>
         <location filename="../wizard/WizardManageWalletUI.qml" line="344"/>
         <source>Ledger</source>
-        <translation type="unfinished"></translation>
+        <translation>לדגר</translation>
     </message>
     <message>
         <location filename="../wizard/WizardManageWalletUI.qml" line="367"/>
@@ -2391,7 +2391,7 @@ For the case of outgoing payments, you can get a &apos;Spend Proof&apos; that pr
     <message>
         <location filename="../wizard/WizardMemoTextInput.qml" line="65"/>
         <source>Seed copied to clipboard</source>
-        <translation>הגרעין (seed) הועתק ללוח</translation>
+        <translation>הגרעין (סיד) הועתק ללוח</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMemoTextInput.qml" line="93"/>
@@ -2429,27 +2429,27 @@ For the case of outgoing payments, you can get a &apos;Spend Proof&apos; that pr
     <message>
         <location filename="../wizard/WizardOptions.qml" line="273"/>
         <source>Create a new wallet from hardware device</source>
-        <translation type="unfinished"></translation>
+        <translation>צור ארנק חדש מהתקן חומרה</translation>
     </message>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="290"/>
         <source>Advanced options</source>
-        <translation type="unfinished">אפשרויות מתקדמות</translation>
+        <translation>אפשרויות מתקדמות</translation>
     </message>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="301"/>
         <source>Mainnet</source>
-        <translation type="unfinished">Mainnet</translation>
+        <translation>מייננט</translation>
     </message>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="322"/>
         <source>Testnet</source>
-        <translation>Testnet</translation>
+        <translation>טסטנט</translation>
     </message>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="343"/>
         <source>Stagenet</source>
-        <translation>Stagenet</translation>
+        <translation>סטייגנט</translation>
     </message>
 </context>
 <context>
@@ -2498,7 +2498,7 @@ For the case of outgoing payments, you can get a &apos;Spend Proof&apos; that pr
     <message>
         <location filename="../wizard/WizardWelcome.qml" line="83"/>
         <source>Please choose a language and regional format.</source>
-        <translation>אנא בחר שפה ופורמט איזור.</translation>
+        <translation>אנא בחר שפה ופורמט איזורי.</translation>
     </message>
 </context>
 <context>
@@ -2694,12 +2694,12 @@ Amount: </source>
     <message>
         <location filename="../main.qml" line="1150"/>
         <source>Warning: There&apos;s only %1 GB available on the device. Blockchain requires ~%2 GB of data.</source>
-        <translation>אזהרה: נותרו רק %1 GB על ההתקן. בלוקצ&apos;יין דורש ~%2 GB של מידע.</translation>
+        <translation> דאטה GB ~%2 זמין על המכשיר. בלוקציין דורש  GB אזהרה: רק %1</translation>
     </message>
     <message>
         <location filename="../main.qml" line="1152"/>
         <source>Note: There&apos;s %1 GB available on the device. Blockchain requires ~%2 GB of data.</source>
-        <translation>שים לב: נותרו רק %1 GB על ההתקן. בלוקצ&apos;יין דורש ~%2 GB של מידע.</translation>
+        <translation>דאטה GB ~%2 זמין על המכשיר. בלוקציין דורש  GB שים לב: %1 </translation>
     </message>
     <message>
         <location filename="../main.qml" line="1154"/>
@@ -2815,7 +2815,7 @@ Fee: </source>
         <location filename="../main.qml" line="832"/>
         <source>Couldn&apos;t generate a proof because of the following reason: 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>לא ניתן לייצר הוכחה בשל הסיבה הבאה: </translation>
     </message>
     <message>
         <location filename="../main.qml" line="870"/>
